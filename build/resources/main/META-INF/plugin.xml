@@ -1,0 +1,30 @@
+<idea-plugin>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <id>org.plagcheck.PlagCheck</id>
+  <name>PlagCheck</name>
+  <vendor email="kunpeng.qin@uqconnect.edu.au">UQ</vendor>
+  <description>
+    Plagiarism checker to help novice programmers
+    </description>
+  <version>1.0.0</version>
+  <vendor>UQ</vendor>
+  <idea-version since-build="203.6682" until-build="203.*"/>
+  <depends>com.intellij.modules.pycharm.community</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <extensionPoints/>
+  <actions>
+    <group id="PlagCheck" text="PlagCheck" description="Plagiarism Checker">
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action class="com.plagcheck.PlagiarismDetection" id="PlagCheck.Actions.PlagiarismDetection" text="Check Plagiarism"/>
+    </group>
+  </actions>
+  <project-components>
+    <component>
+      <implementation-class>
+            com.plagcheck.PlagiarismDetection
+        </implementation-class>
+    </component>
+  </project-components>
+</idea-plugin>

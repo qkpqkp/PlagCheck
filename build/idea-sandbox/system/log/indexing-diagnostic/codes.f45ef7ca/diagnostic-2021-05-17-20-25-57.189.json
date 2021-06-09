@@ -1,0 +1,141 @@
+{
+  "appInfo" : {
+    "build" : "203.6682.179",
+    "buildDate" : "Thu, 31 Dec 2020 03:06:45 +1000",
+    "productCode" : "PC",
+    "generated" : "Mon, 17 May 2021 20:25:57 +1000",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.9.1 11.0.9.1+11-b1145.63"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Codes",
+    "numberOfFileProviders" : 6,
+    "totalNumberOfFiles" : 42843,
+    "totalNumberOfUpToDateFiles" : 42842,
+    "times" : {
+      "totalUpdatingTime" : "1 s 940 ms",
+      "indexingTime" : "33 ms",
+      "pushPropertiesTime" : "12 ms",
+      "updatingStart" : "Mon, 17 May 2021 20:25:55 +1000",
+      "updatingEnd" : "Mon, 17 May 2021 20:25:57 +1000",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "8.99 kB",
+      "indexingSpeed" : "370.04 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Codes'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8.99 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "FilenameIndex",
+      "partOfTotalIndexingTime" : "61.3%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "8.99 kB",
+      "indexingSpeed" : "603.49 MB/s"
+    }, {
+      "indexId" : "filetypes",
+      "partOfTotalIndexingTime" : "38.7%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "8.99 kB",
+      "indexingSpeed" : "956.6 MB/s"
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.7",
+      "numberOfScannedFiles" : 42542,
+      "numberOfUpToDateFiles" : 42542,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "1 s 324 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "60 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@6ff08d04",
+      "numberOfScannedFiles" : 226,
+      "numberOfUpToDateFiles" : 226,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "174 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "Module 'Codes'",
+      "numberOfScannedFiles" : 75,
+      "numberOfUpToDateFiles" : 74,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "151 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "7 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@6ff08d04",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@630914d6",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@630914d6",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Codes'",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1,
+      "totalIndexingTime" : "24 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "8.99 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "FilenameIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "61.3%"
+      }, {
+        "indexId" : "filetypes",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "38.7%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

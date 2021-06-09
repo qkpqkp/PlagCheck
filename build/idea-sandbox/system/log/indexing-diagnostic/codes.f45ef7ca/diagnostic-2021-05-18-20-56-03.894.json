@@ -1,0 +1,89 @@
+{
+  "appInfo" : {
+    "build" : "203.6682.179",
+    "buildDate" : "Thu, 31 Dec 2020 03:06:52 +1000",
+    "productCode" : "PC",
+    "generated" : "Tue, 18 May 2021 20:56:03 +1000",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.9.1 11.0.9.1+11-b1145.63"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Codes",
+    "numberOfFileProviders" : 6,
+    "totalNumberOfFiles" : 42843,
+    "totalNumberOfUpToDateFiles" : 42843,
+    "times" : {
+      "totalUpdatingTime" : "2 s 150 ms",
+      "pushPropertiesTime" : "536 ms",
+      "updatingStart" : "Tue, 18 May 2021 20:56:01 +1000",
+      "updatingEnd" : "Tue, 18 May 2021 20:56:03 +1000",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 0,
+    "totalStatsPerFileType" : [ ],
+    "totalStatsPerIndexer" : [ ],
+    "scanningStatistics" : [ {
+      "providerName" : "Python SDK Python 3.7",
+      "numberOfScannedFiles" : 42542,
+      "numberOfUpToDateFiles" : 42542,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "1 s 447 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "63 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "Module 'Codes'",
+      "numberOfScannedFiles" : 75,
+      "numberOfUpToDateFiles" : 75,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "242 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "4 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@579cf057",
+      "numberOfScannedFiles" : 226,
+      "numberOfUpToDateFiles" : 226,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "238 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "2 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e708559",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@2e708559",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@579cf057",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    } ],
+    "fileProviderStatistics" : [ ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "appInfo" : {
+    "build" : "203.6682.179",
+    "buildDate" : "Thu, 31 Dec 2020 03:06:46 +1000",
+    "productCode" : "PC",
+    "generated" : "Sun, 16 May 2021 23:45:13 +1000",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.9.1 11.0.9.1+11-b1145.63"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "s1.py",
+    "numberOfFileProviders" : 5,
+    "totalNumberOfFiles" : 227,
+    "totalNumberOfUpToDateFiles" : 226,
+    "times" : {
+      "totalUpdatingTime" : "2 s 785 ms",
+      "indexingTime" : "446 ms",
+      "pushPropertiesTime" : "19 ms",
+      "updatingStart" : "Sun, 16 May 2021 23:45:10 +1000",
+      "updatingEnd" : "Sun, 16 May 2021 23:45:13 +1000",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "595 B",
+      "indexingSpeed" : "1.46 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 's1.py'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "595 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "60.3%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "595 B",
+      "indexingSpeed" : "2.42 kB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "37.7%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "595 B",
+      "indexingSpeed" : "3.87 kB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "1.3%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "595 B",
+      "indexingSpeed" : "110.41 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "595 B",
+      "indexingSpeed" : "235.5 kB/s"
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@1c65d47a",
+      "numberOfScannedFiles" : 226,
+      "numberOfUpToDateFiles" : 226,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "183 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "4 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "Module 's1.py'",
+      "numberOfScannedFiles" : 1,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "11 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@1c65d47a",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@55971e95",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@55971e95",
+      "numberOfScannedFiles" : 0,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 's1.py'",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "438 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Python",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "595 B",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "60.3%"
+      }, {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "37.7%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      } ],
+      "fastIndexers" : [ "Trigram.Index" ]
+    } ]
+  }
+}

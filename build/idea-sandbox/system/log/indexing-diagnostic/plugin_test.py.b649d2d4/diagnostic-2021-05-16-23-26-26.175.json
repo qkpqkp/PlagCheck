@@ -1,0 +1,107 @@
+{
+  "appInfo" : {
+    "build" : "203.6682.179",
+    "buildDate" : "Thu, 31 Dec 2020 03:06:18 +1000",
+    "productCode" : "PC",
+    "generated" : "Sun, 16 May 2021 23:26:26 +1000",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.9.1 11.0.9.1+11-b1145.63"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Plugin_test.py",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 34,
+    "totalNumberOfUpToDateFiles" : 0,
+    "times" : {
+      "totalUpdatingTime" : "145 ms",
+      "indexingTime" : "145 ms",
+      "updatingStart" : "Sun, 16 May 2021 23:26:26 +1000",
+      "updatingEnd" : "Sun, 16 May 2021 23:26:26 +1000",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 0,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Python",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 34,
+      "totalFilesSize" : "341.24 kB",
+      "indexingSpeed" : "802.74 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 34,
+        "totalFilesSize" : "341.24 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "85.0%",
+      "totalNumberOfFiles" : 34,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "341.24 kB",
+      "indexingSpeed" : "944.54 kB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "8.0%",
+      "totalNumberOfFiles" : 34,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "341.24 kB",
+      "indexingSpeed" : "10.01 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "7.0%",
+      "totalNumberOfFiles" : 34,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "341.24 kB",
+      "indexingSpeed" : "11.48 MB/s"
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "numberOfScannedFiles" : 34,
+      "numberOfUpToDateFiles" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : "< 1 ms",
+      "timeProcessingUpToDateFiles" : "< 1 ms",
+      "timeUpdatingContentLessIndexes" : "< 1 ms",
+      "timeIndexingWithoutContent" : "< 1 ms"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "totalNumberOfFiles" : 34,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "145 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Python",
+        "numberOfFiles" : 34,
+        "totalFilesSize" : "341.24 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 34,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "85.0%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 34,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "8.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 34,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "7.0%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="reference.settingsdialog.IDE.editor.colors.reStructuredText" configurable_name="reStructuredText">
+    <option name="restructuredtext" hit="reStructuredText" />
+    <option name="bold" hit="Bold text" />
+    <option name="text" hit="Bold text" />
+    <option name="comment" hit="Comment" />
+    <option name="explicit" hit="Explicit markup" />
+    <option name="markup" hit="Explicit markup" />
+    <option name="fields" hit="Fields" />
+    <option name="inline" hit="Inline literals" />
+    <option name="literals" hit="Inline literals" />
+    <option name="interpreted" hit="Interpreted text" />
+    <option name="text" hit="Interpreted text" />
+    <option name="italic" hit="Italic text" />
+    <option name="text" hit="Italic text" />
+    <option name="and" hit="Literal and line blocks" />
+    <option name="blocks" hit="Literal and line blocks" />
+    <option name="line" hit="Literal and line blocks" />
+    <option name="literal" hit="Literal and line blocks" />
+    <option name="name" hit="Reference name" />
+    <option name="reference" hit="Reference name" />
+    <option name="title" hit="Title" />
+  </configurable>
+  <configurable id="restructured.text.topic" configurable_name="ReStructured text">
+    <option name="panel" hit="Preview panel:" />
+    <option name="preview" hit="Preview panel:" />
+    <option name="restructured" hit="ReStructured text" />
+    <option name="text" hit="ReStructured text" />
+    <option name="swing" hit="Swing" />
+  </configurable>
+</options>
+

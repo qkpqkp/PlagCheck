@@ -1,0 +1,39 @@
+<idea-plugin>
+    <id>org.plagcheck.PlagCheck</id>
+    <name>PlagCheck</name>
+    <vendor email="kunpeng.qin@uqconnect.edu.au">UQ</vendor>
+
+    <description>
+    Plagiarism checker to help novice programmers
+    </description>
+    <version>1.0.0</version>
+    <vendor>UQ</vendor>
+    <idea-version since-build="193" until-build="193.*"/>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.pycharm.community</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+
+    </extensions>
+    <extensionPoints>
+    </extensionPoints>
+    
+    <actions>
+        <!-- Add your actions here -->
+        <group id="PlagCheck" text="PlagCheck" description="Plagiarism Checker">
+            <add-to-group group-id="MainMenu" anchor="last"/>
+            <action class="com.plagcheck.VFSChangeDetection" id="PlagCheck.Actions.VFSChangeDetection" text="Run"/>
+            <action class="com.plagcheck.PlagiarismDetection" id="PlagCheck.Actions.PlagiarismDetection" text="Check Plagiarism"/>
+        </group>
+    </actions>
+    <project-components>
+    <component>
+        <implementation-class>
+            com.plagcheck.VFSChangeDetection
+        </implementation-class>
+    </component>
+    </project-components>
+</idea-plugin>

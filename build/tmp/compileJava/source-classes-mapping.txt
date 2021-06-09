@@ -1,0 +1,6 @@
+com/plagcheck/VFSChangeDetection.java
+ com.plagcheck.VFSChangeDetection
+ com.plagcheck.VFSChangeDetection$1
+com/plagcheck/PlagiarismDetection.java
+ com.plagcheck.PlagiarismDetection
+ com.plagcheck.PlagiarismDetection$1

@@ -1,0 +1,96 @@
+# encoding: utf-8
+# module win32comext.axscript.axscript
+# from C:\Users\Doly\Anaconda3\lib\site-packages\win32comext\axscript\axscript.pyd
+# by generator 1.147
+""" A module, encapsulating the ActiveX Scripting interfaces. """
+# no imports
+
+# Variables with simple values
+
+INTERFACESAFE_FOR_UNTRUSTED_CALLER = 1
+INTERFACESAFE_FOR_UNTRUSTED_DATA = 2
+
+INTERFACE_USES_DISPEX = 4
+
+INTERFACE_USES_SECURITY_MANAGER = 8
+
+MULTICLASSINFO_GETIIDPRIMARY = 4
+MULTICLASSINFO_GETIIDSOURCE = 8
+MULTICLASSINFO_GETNUMRESERVEDDISPIDS = 2
+MULTICLASSINFO_GETTYPEINFO = 1
+
+SCRIPTINFO_ALL_FLAGS = 3
+
+SCRIPTINFO_ITYPEINFO = 2
+SCRIPTINFO_IUNKNOWN = 1
+
+SCRIPTINTERRUPT_ALL_FLAGS = 3
+
+SCRIPTINTERRUPT_DEBUG = 1
+SCRIPTINTERRUPT_RAISEEXCEPTION = 2
+
+SCRIPTITEM_ALL_FLAGS = 1614
+
+SCRIPTITEM_CODEONLY = 512
+SCRIPTITEM_GLOBALMEMBERS = 8
+SCRIPTITEM_ISPERSISTENT = 64
+SCRIPTITEM_ISSOURCE = 4
+SCRIPTITEM_ISVISIBLE = 2
+SCRIPTITEM_NOCODE = 1024
+
+SCRIPTPROC_ALL_FLAGS = 1952
+
+SCRIPTPROC_HOSTMANAGESSOURCE = 128
+
+SCRIPTPROC_IMPLICIT_PARENTS = 512
+SCRIPTPROC_IMPLICIT_THIS = 256
+
+SCRIPTSTATE_CLOSED = 4
+SCRIPTSTATE_CONNECTED = 2
+SCRIPTSTATE_DISCONNECTED = 3
+SCRIPTSTATE_INITIALIZED = 5
+SCRIPTSTATE_STARTED = 1
+SCRIPTSTATE_UNINITIALIZED = 0
+
+SCRIPTTEXT_ALL_FLAGS = 483
+
+SCRIPTTEXT_ISEXPRESSION = 32
+SCRIPTTEXT_ISPERSISTENT = 64
+SCRIPTTEXT_ISVISIBLE = 2
+
+SCRIPTTHREADSTATE_NOTINSCRIPT = 0
+SCRIPTTHREADSTATE_RUNNING = 1
+
+SCRIPTTYPELIB_ISCONTROL = 16
+SCRIPTTYPELIB_ISPERSISTENT = 64
+
+SCRIPT_E_REPORTED = -2147352319
+
+TIFLAGS_EXTENDDISPATCHONLY = 1
+
+# no functions
+# no classes
+# variables with complex values
+
+CATID_ActiveScript = None # (!) real value is "IID('{F0B7A1A1-9847-11CF-8F20-00805F2CD064}')"
+
+CATID_ActiveScriptParse = None # (!) real value is "IID('{F0B7A1A2-9847-11CF-8F20-00805F2CD064}')"
+
+IID_IActiveScript = None # (!) real value is "IID('{BB1A2AE1-A4F9-11CF-8F20-00805F2CD064}')"
+
+IID_IActiveScriptError = None # (!) real value is "IID('{EAE1BA61-A4ED-11CF-8F20-00805F2CD064}')"
+
+IID_IActiveScriptParse = None # (!) real value is "IID('{C7EF7658-E1EE-480E-97EA-D52CB4D76D17}')"
+
+IID_IActiveScriptParseProcedure = None # (!) real value is "IID('{C64713B6-E029-4CC5-9200-438B72890B6A}')"
+
+IID_IActiveScriptSite = None # (!) real value is "IID('{DB01A1E3-A42B-11CF-8F20-00805F2CD064}')"
+
+IID_IObjectSafety = None # (!) real value is "IID('{CB5BDC81-93C1-11CF-8F20-00805F2CD064}')"
+
+IID_IProvideMultipleClassInfo = None # (!) real value is "IID('{A7ABA9C1-8983-11CF-8F20-00805F2CD064}')"
+
+__loader__ = None # (!) real value is '<_frozen_importlib_external.ExtensionFileLoader object at 0x0000021BC0AEAF60>'
+
+__spec__ = None # (!) real value is "ModuleSpec(name='win32comext.axscript.axscript', loader=<_frozen_importlib_external.ExtensionFileLoader object at 0x0000021BC0AEAF60>, origin='C:\\\\Users\\\\Doly\\\\Anaconda3\\\\lib\\\\site-packages\\\\win32comext\\\\axscript\\\\axscript.pyd')"
+
